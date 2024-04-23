@@ -22,9 +22,13 @@ Download: https://www.pling.com/p/2148996
 Screenshot:
 -----------
 
-![1](https://github.com/L4ki/Azure-Plasma-Themes/assets/45247573/2780b8f6-46eb-4906-b08e-562f68e4a812)
+![1](https://github.com/L4ki/Azure-Plasma-Themes/assets/45247573/7fd83830-c269-45f5-981f-355cee8d4dce)
 
-![2](https://github.com/L4ki/Azure-Plasma-Themes/assets/45247573/db846762-c8f8-493c-b9b0-e06d89fa7cd5)
+![2](https://github.com/L4ki/Azure-Plasma-Themes/assets/45247573/cc616662-1a37-4e0c-9964-f59af533eb9a)
+
+![4](https://github.com/L4ki/Azure-Plasma-Themes/assets/45247573/0a3868f3-7b33-4dfb-9144-979f1158f0c7)
+
+![logo3](https://github.com/L4ki/Azure-Plasma-Themes/assets/45247573/1e7d0e8a-b642-4d54-972b-c97435682b16)
 
 ![2](https://github.com/L4ki/Azure-Plasma-Themes/assets/45247573/cf935287-67f2-41ba-a15a-e137193b1e27)
 
