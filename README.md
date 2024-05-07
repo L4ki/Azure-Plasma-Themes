@@ -34,7 +34,7 @@ Screenshot:
 
 ![3](https://github.com/L4ki/Azure-Plasma-Themes/assets/45247573/b3c07f59-bc3f-442e-bf94-b5052e0c74dc)
 
-Changelog: 30.04.24.
+Changelog: 07.05.24.
 --------------------
 
 Icons
