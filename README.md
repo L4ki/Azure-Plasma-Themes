@@ -54,4 +54,4 @@ Changelog: 21.05.24.
 Icons
 -----
 
-Aupdate icons: status
+Update icons: status
