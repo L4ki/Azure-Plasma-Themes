@@ -55,3 +55,11 @@ Icons
 -----
 
 Added new icons: apps 48
+
+Changelog: 08.07.24.
+--------------------
+
+Icons: "Azure-Glassy-Dark"
+-------------------------
+
+Update icons: apps, preferences...
