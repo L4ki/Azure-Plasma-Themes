@@ -54,6 +54,6 @@ Changelog: 25.09.24.
 Icons
 -----
 
-Added new icons: apps 48
+Added new icons: actions
 
 
