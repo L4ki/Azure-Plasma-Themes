@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 12.510734 12.51076"
    id="svg12"
-   sodipodi:docname="org.tenacityaudio.Tenacity.svg"
+   sodipodi:docname="tenacity.svg"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -237,7 +237,7 @@
      showgrid="true"
      inkscape:zoom="4.4272763"
      inkscape:cx="-22.92606"
-     inkscape:cy="60.533833"
+     inkscape:cy="60.759705"
      inkscape:window-width="1920"
      inkscape:window-height="994"
      inkscape:window-x="0"
@@ -279,8 +279,7 @@
      transform="matrix(0.72612649,-0.68756114,0.6879775,0.72573202,0,0)" />
   <path
      d="M 3.9980627,5.6400279 H 1.6321826 C 1.5484667,6.0654681 1.529379,6.3161281 1.7152606,6.8096691 h 2.2828003 v 1.7544764 h 1.140411 V 7.3945044 h 1.140411 v 2.3392982 h 1.14041 V 7.9793245 H 8.559703 V 6.8096691 h 2.333773 c 0.09246,-0.3889594 0.066,-0.7907619 -0.130437,-1.1696412 H 8.559703 V 4.4703721 H 7.4192927 V 2.7158946 H 6.2788828 V 5.0551921 H 5.1384726 v -1.16964 H 3.9980627 Z"
-     fill="url(#paint2_linear_1117_79)"
      id="path3"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:0.175455"
-     sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+     sodipodi:nodetypes="ccccccccccccccccccccccccc"
+     style="fill:#ffffff;fill-opacity:1" />
 </svg>
