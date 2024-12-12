@@ -54,5 +54,4 @@ Changelog: 05.12.24.
 Icons
 -----
 
-Update: icon-theme.cache
-
+Added new icons: apps 48
