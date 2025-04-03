@@ -54,4 +54,4 @@ Changelog: 03.04.2025.
 Icons
 -----
 
-Added new icons: apps 48
+Added new icons: apps 22
