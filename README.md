@@ -48,10 +48,10 @@ Screenshot "Azure-Glassy-Dark-Icons":
 ![5](https://github.com/L4ki/Azure-Plasma-Themes/assets/45247573/242a7565-b60c-4212-b1ed-de545eae3929)
 
 
-Changelog: 17.04.2025.
+Changelog: 24.04.2025.
 ---------------------
 
 Icons
 -----
 
-Update icons: apps 24
+Update icons: apps 32
