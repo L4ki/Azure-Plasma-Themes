@@ -54,4 +54,4 @@ Changelog: 12.12.2025.
 Icons
 -----
 
-Update icons: status 22
+Update icons: status 32
